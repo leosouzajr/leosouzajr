@@ -2,7 +2,7 @@
 
 Desenvolvedor full-stack focado em **Next.js**, **TypeScript** e **React**, construindo sistemas web do zero — de gestão escolar a bibliotecas digitais.
 
-- 🔧 Atualmente trabalhando no meu [portfólio](https://v0-meu-portfolio-mu.vercel.app)
+- 🔧 Atualmente trabalhando no meu [portfólio](https://leonardosouzajr.vercel.app)
 - 🌱 Explorando automação, robótica e Arduino como hobby
 - 💬 Pode me encontrar nos projetos fixados abaixo
 
