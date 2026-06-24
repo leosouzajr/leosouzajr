@@ -11,7 +11,7 @@ Desenvolvedor full-stack focado em **Next.js**, **TypeScript** e **React**, cons
 | Projeto | Descrição |
 |---|---|
 | [incident-flow-portfolio](https://github.com/leosouzajr/incident-flow-portfolio) | Sistema de gestão de ocorrências escolares multi-escola e multi-professor |
-| [sistema-de-biblioteca-frontend](https://github.com/leosouzajr/sistema-de-biblioteca-frontend) | Frontend de um sistema de gerenciamento de biblioteca (Next.js 15 + shadcn/ui) |
+| [financeplan-portfolio](https://github.com/leosouzajr/financeplan-portfolio) | Sistema de gestão financeira |
 | [sistema-de-biblioteca-backend](https://github.com/leosouzajr/sistema-de-biblioteca-backend) | API backend do sistema de biblioteca |
 | [polyglot-academy-landing](https://github.com/leosouzajr/polyglot-academy-landing) | Landing page de treinamento desenvolvida em equipe |
 
